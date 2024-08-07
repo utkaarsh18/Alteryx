@@ -1,4 +1,4 @@
-Fundamentals of Alteryx
+1) Fundamentals of Alteryx
 
 - Gained essential workflow skills.
 - Mastered data loading, cleaning and preparation
