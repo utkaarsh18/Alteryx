@@ -6,7 +6,7 @@
 
 DATA ANALYSIS
 - Navigate Alteryx Design Interface
-- DC High School Task Dataset
+- DC High School Task Dataset.
 - Selecting columns for initial workflow
 
 - DATA PREPARATION
